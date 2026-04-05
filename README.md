@@ -1,9 +1,21 @@
-- 👋 Hi, We are TOJGAMES™ [@tojgames]
-- 👀 We create games with highest graphics and maximum usability for everyone
-- 🌱 Currently developing RCP2, SCD, Traffic Racer Pro and Driver Life games
-- 📫 Contact us at hello@tojgames.com
+## TOJGAMES
 
-  Our Websites:
-- https://tojgames.com/
-- https://tojgames.net/
-- https://toj.games/
+We create driving games focused on fun, immersion, and accessibility for players worldwide.
+
+### Current Projects
+- RCP2
+- Driver Life
+- Traffic Racer Pro
+- Traffic Racer Open World
+
+### What We Do
+- Driving and racing games
+- Open-world experiences
+- Mobile-first game development
+- Regular updates and fresh content
+
+### Contact
+hello@tojgames.com
+
+### Website
+https://tojgames.com/
